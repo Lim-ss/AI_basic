@@ -1,0 +1,4 @@
+此路径下存放数据文件
+GoogleNews-vectors-negative300.bin
+用于part1的PCA实验调用，由于文件较大(>3G)这里没有上传
+可以从lab2guiding.pdf中提到的链接中获取
